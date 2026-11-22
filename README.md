@@ -16,7 +16,7 @@ Blade Type Lab — типографическая лаборатория, кот
 
 ## ✨ Features / Возможности
 
-- 🔤 **Cyrillic-first fonts** — Tektur, Molot, Russo One, Exo2, Oswald, Saira Condensed
+- 🔤 **Cyrillic-first fonts** — Tektur, Molot, Russo One, Exo 2, Oswald, Saira Condensed
 - ✂️ **4 blade modes** — chamfer cuts, point spikes, sharp tips, or clean font
 - 📐 **Live skew** — от -26° до +8° в реальном времени
 - 🎨 **6 gradient palettes** — silver, brand, steel, acid, magenta, solid
@@ -37,9 +37,11 @@ Blade Type Lab — типографическая лаборатория, кот
 
 ---
 
-## 🚀 Live Demo
+## 📂 Repository Status
 
-👉 [dcreator-dev.github.io](https://dcreator-dev.github.io/)
+✅ Core logic implemented  
+✅ UI/UX and brand themes ready  
+🚀 Deployment to GitHub Pages: In progress  
 
 ---
 
